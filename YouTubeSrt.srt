@@ -1,0 +1,76 @@
+1
+00:00:00.00--->00:00:01.976
+todays lets learn python
+
+2
+00:00:02.00--->00:00:04.267
+to run hello world in python
+
+3
+00:00:05.00--->00:00:07.667
+you can install python3 from a site
+
+4
+00:00:08.00--->00:00:10.467
+Download and run the setup
+
+5
+00:00:12.00--->00:00:13.976
+you can also install other libraries
+
+6
+00:00:14.00--->00:00:15.976
+start reading python documentation
+
+7
+00:00:16.00--->00:00:18.467
+use the code print("Hello!")
+
+8
+00:00:19.00--->00:00:20.976
+This can be also mention in a variable
+
+9
+00:00:21.00--->00:00:22.267
+there are various function as well
+
+10
+00:00:25:00--->00:00:26.976
+you can also have arithmetic operations
+
+11
+00:00:27.00--->00:00:29.200
+you can also have relational operations
+
+12
+00:00:31.00--->00:00:33.533
+you can also have logical operations
+
+13
+00:00:36.00--->00:00:38.600
+you can also have functions
+
+14
+00:00:40.00--->00:00:42.467
+you can also have classes
+
+15
+00:00:44.00--->00:00:46.400
+you can also have object
+
+16
+00:00:50.00--->00:00:52.00
+you can also bui;d webste
+
+17
+00:00:53.00--->00:00:55.467
+yu can alsoo have lamda
+
+18
+00:00:56.00--->00:00:57.976
+you can also have scrapping as well
+
+19
+00:00:58.00--->00:00:59.267
+thanks for watching
+
